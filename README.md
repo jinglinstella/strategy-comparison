@@ -1,1 +1,1 @@
-This project evaluates the performance of a theoretically optimal trading strategy and that of a Q-learner.
+This project evaluates and compares the performance between a theoretically optimal trading strategy and a Q-learner.
